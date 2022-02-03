@@ -6,3 +6,7 @@ Here is the Persona and User story that carefully states the need that the Clien
 
 https://www.figma.com/file/niUPIH4DUeivZxpiFjmrK9/Bluetooth-keyChain-project?node-id=0%3A1
 
+
+Low fidelity wireframe sketch
+
+https://www.figma.com/file/HJ2k4hJk0RA012WYFyzAuP/bluetooth-keychain-design?node-id=4%3A2
